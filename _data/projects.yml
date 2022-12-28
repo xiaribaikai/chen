@@ -1,0 +1,43 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: 江西省地震局测震台网运行管理平台
+  descr: "一套具有数据可视化功能，利用 Vue 和 FastAPI 实现前后端分离的权限管理系统。"
+  demo: https://gitee.com/chen-guanghui91
+  tags:
+    - tag: Vue
+    - tag: FastAPI
+    - tag: MySQL
+    - tag: Echarts
+
+- name: 校园新闻APP
+  descr: "利用Vue + Vant搭建的具有新闻浏览、天气查询、播放音乐等功能的手机应用程序。"
+  demo: https://gitee.com/chen-guanghui91
+  tags:
+    - tag: Vue
+    - tag: Vant
+
+- name: 仿网易云音乐小程序
+  descr: "仿制网易云音乐实现微信小程序"
+
+- name: 嵌入式智能小车操控算法
+  descr: "本项目分为前端和嵌入式两部分，前端页面通过微信小程序实现，嵌入式部分基于STM32F103主控板搭建小车的控制算法。"
+
+- name: Unity太空小游戏
+  descr: "结合航天主题开发的趣味3D小游戏。"
+  demo: https://gitee.com/chen-guanghui91
+  tags:
+    - tag: Unity
+    - tag: C#
