@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Guanghui
+title: 夏日白开
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -11,7 +11,7 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Guanghui Chen
+username: 陈光辉
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: 前端开发工程师
@@ -32,7 +32,7 @@ twitter_username:
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
+about_me_title: 关于我
 # about_me_description: This will be displayed under the title.
 about_me_description: 你好，我是一名23届本科毕业生。年龄，25岁。性别，男。就读于景德镇陶瓷大学信息工程学院计算机科学与技术专业，在校期间成绩良好，综合排名专业前五。对前端知识具有浓厚的兴趣和良好的自学能力，能够独立完成多种不同的小项目。有过UI设计的实习经历，对于界面和交互都有一定的审美和见解。喜欢简约的生活，认真工作，充实自我。如果有机会，我会在我的<a class="highlight-link" href="https://gitee.com/chen-guanghui91" target="_blank" rel="noreferrer">Gitee</a>更新我的一些代码.
 
@@ -42,7 +42,7 @@ about_me_description: 你好，我是一名23届本科毕业生。年龄，25岁
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+skills_title: 技能
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -50,7 +50,7 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: 教育与经验
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://gitee.com/chen-guanghui91
@@ -65,7 +65,7 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects
+projects_title: 项目
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
@@ -79,7 +79,7 @@ os_projects_title: Open Source Projects
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
+contact_title: 联系
 # contact_description: This will be displayed under the title.
 contact_description: 真诚地感谢您在百忙之中来到我的个人页面！我相信，生活平凡但不平庸，简约但不简单。但愿所有的成功，都来自不倦的努力和奔跑。 您可以通过下方的邮箱联系我，也可以通过<a class="highlight-link" href="https://gitee.com/chen-guanghui91" target="_blank" rel="noreferrer"> Gitee </a>.
 
